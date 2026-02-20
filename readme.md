@@ -12,3 +12,5 @@ Odin:
 Bhop:
 * [Bhop server setup](https://github.com/epsilonbsp/bhop_server)
 * [SourceMod extension build example](https://github.com/epsilonbsp/sm_extension_example)
+* [SourceMod bzip2 extension](https://github.com/epsilonbsp/sm_bzip2)
+* [SourceMod plugin for downloading maps on demand](https://github.com/epsilonbsp/sm_maploader)
