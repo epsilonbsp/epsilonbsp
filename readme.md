@@ -5,14 +5,15 @@ Links:
 * [ArtStation](https://epsilonbsp.artstation.com/)
 
 Odin:
-* [Odin SDL2 template](https://github.com/epsilonbsp/odin_sdl2_template)
-* [Odin SDL3 template](https://github.com/epsilonbsp/odin_sdl3_template)
-* [Immediate mode debug draw in Odin](https://github.com/epsilonbsp/imdd)
+* [Odin SDL2 Template](https://github.com/epsilonbsp/odin_sdl2_template)
+* [Odin SDL3 Template](https://github.com/epsilonbsp/odin_sdl3_template)
+* [Immediate Mode Debug Draw](https://github.com/epsilonbsp/imdd)
 
 Bhop:
-* [Bhop server setup](https://github.com/epsilonbsp/bhop_server) - My bhop LAN server setup with collection of plugins
-* [SourceMod extension build example](https://github.com/epsilonbsp/sm_extension_example) - Showcase of how to build SourceMod Sample Extension using AMBuild
-* [SourceMod bzip2 extension](https://github.com/epsilonbsp/sm_bzip2) - Extension for allowing to compress/decompress .bz2 files on bhop server
-* [SourceMod MapLoader plugin](https://github.com/epsilonbsp/sm_maploader) - Plugin for downloading and loading maps on bhop server on demand even without having them on server
-* [SourceMod Paint plugin](https://github.com/epsilonbsp/sm_paint) - Plugin for painting on walls
-* [SourceMod Gap plugin](https://github.com/epsilonbsp/sm_gap) - Plugin for measuring distance and minimal required velocity between 2 points
+* [Bhop Server Setup](https://github.com/epsilonbsp/bhop_server) - My bhop LAN server setup with collection of plugins
+* [SourceMod Extension Build Example](https://github.com/epsilonbsp/sm_extension_example) - Showcase of how to build SourceMod Sample Extension using AMBuild
+* [SourceMod bzip2 Extension](https://github.com/epsilonbsp/sm_bzip2) - Extension for allowing to compress/decompress .bz2 files on bhop server
+* [SourceMod MapLoader Plugin](https://github.com/epsilonbsp/sm_maploader) - Plugin for downloading and loading maps on bhop server on demand even without having them on server
+* [SourceMod Paint Plugin](https://github.com/epsilonbsp/sm_paint) - Plugin for painting on walls
+* [SourceMod Gap Plugin](https://github.com/epsilonbsp/sm_gap) - Plugin for measuring distance and minimal required velocity between 2 points
+* [SourceMod Feet Plugin](https://github.com/epsilonbsp/sm_feet) - Plugin for displaying player feet wireframe, useful for bhop and kz
