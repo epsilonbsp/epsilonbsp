@@ -15,3 +15,4 @@ Bhop:
 * [SourceMod bzip2 extension](https://github.com/epsilonbsp/sm_bzip2) - Extension for allowing to compress/decompress .bz2 files on bhop server
 * [SourceMod MapLoader plugin](https://github.com/epsilonbsp/sm_maploader) - Plugin for downloading and loading maps on bhop server on demand even without having them on server
 * [SourceMod Paint plugin](https://github.com/epsilonbsp/sm_paint) - Plugin for painting on walls
+* [SourceMod Gap plugin](https://github.com/epsilonbsp/sm_gap) - Plugin for measuring distance and minimal required velocity between 2 points
