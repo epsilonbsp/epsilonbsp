@@ -17,3 +17,4 @@ Bhop:
 * [SourceMod Paint Plugin](https://github.com/epsilonbsp/sm_paint) - Plugin for painting on walls
 * [SourceMod Gap Plugin](https://github.com/epsilonbsp/sm_gap) - Plugin for measuring distance and minimal required velocity between 2 points
 * [SourceMod Feet Plugin](https://github.com/epsilonbsp/sm_feet) - Plugin for displaying player feet wireframe, useful for bhop and kz
+* [SourceMod Fun Plugin](https://github.com/epsilonbsp/sm_fun) - Plugin that lets you play fun sounds to all players on server
