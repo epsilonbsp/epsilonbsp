@@ -7,7 +7,8 @@ Links:
 Odin:
 * [Odin SDL2 Template](https://github.com/epsilonbsp/odin_sdl2_template)
 * [Odin SDL3 Template](https://github.com/epsilonbsp/odin_sdl3_template)
-* [Immediate Mode Debug Draw](https://github.com/epsilonbsp/imdd)
+* [OpenGL Starter](https://github.com/epsilonbsp/opengl_starter) - OpenGL examples to get started with
+* [Immediate Mode Debug Draw](https://github.com/epsilonbsp/imdd) - Simple Immediate Mode Debug Draw implemented in Odin and OpenGL
 
 Bhop:
 * [Bhop Server Setup](https://github.com/epsilonbsp/bhop_server) - My bhop LAN server setup with collection of plugins
