@@ -7,7 +7,7 @@ Links:
 Odin:
 * [Odin SDL2 Template](https://github.com/epsilonbsp/odin_sdl2_template)
 * [Odin SDL3 Template](https://github.com/epsilonbsp/odin_sdl3_template)
-* [OpenGL Starter](https://github.com/epsilonbsp/opengl_starter) - OpenGL examples to get started with
+* [Engine Starter](https://github.com/epsilonbsp/engine_starter) - Examples demonstrating fundamental game engine building blocks
 * [Immediate Mode Debug Draw](https://github.com/epsilonbsp/imdd) - Simple Immediate Mode Debug Draw implemented in Odin and OpenGL
 
 Bhop:
