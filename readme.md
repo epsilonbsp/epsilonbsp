@@ -6,6 +6,9 @@ Game dev stuff:
 * [Texture Map](https://github.com/epsilonbsp/texture_map) - Simple OpenGL texture map example
 * [Atlas Gen](https://github.com/epsilonbsp/atlas_gen) - Tool for generating MTSDF atlas of multiple fonts and SVG icons
 
+Web stuff:
+* [Simple Blocker](https://github.com/epsilonbsp/simple_blocker) - Simple chrome based extension for blocking websites
+
 Bhop:
 * [Bhop Server Setup](https://github.com/epsilonbsp/bhop_server) - My bhop LAN server setup with collection of plugins
 * [SourceMod bzip2 Extension](https://github.com/epsilonbsp/sm_bzip2) - Extension for allowing to compress/decompress .bz2 files on bhop server
