@@ -5,6 +5,9 @@ Game dev stuff:
 * [Engine Starter](https://github.com/epsilonbsp/engine_starter) - Examples demonstrating fundamental game engine building blocks
 * [Texture Map](https://github.com/epsilonbsp/texture_map) - Simple OpenGL texture map example
 * [Atlas Gen](https://github.com/epsilonbsp/atlas_gen) - Tool for generating MTSDF atlas of multiple fonts and SVG icons
+* [IMGUI](https://github.com/epsilonbsp/imgui) - My attempt at making immediate mode gui like Dear ImGui (abandoned)
+* [IMDD2](https://github.com/epsilonbsp/imdd2) - My attempt at making immediate mode debug draw for 2D (abandoned)
+* [IMDD3](https://github.com/epsilonbsp/imdd3) - My attempt at making immediate mode debug draw for 3D (abandoned)
 
 Web stuff:
 * [Simple Blocker](https://github.com/epsilonbsp/simple_blocker) - Simple chrome based extension for blocking websites
