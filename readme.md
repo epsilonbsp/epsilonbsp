@@ -1,16 +1,17 @@
 # EpsilonBSP
-Game dev stuff:
+Game dev:
 * [Odin SDL2 Template](https://github.com/epsilonbsp/odin_sdl2_template)
 * [Odin SDL3 Template](https://github.com/epsilonbsp/odin_sdl3_template)
 * [Engine Starter](https://github.com/epsilonbsp/engine_starter) - Examples demonstrating fundamental game engine building blocks
 * [Texture Map](https://github.com/epsilonbsp/texture_map) - Simple OpenGL texture map example
 * [Atlas Gen](https://github.com/epsilonbsp/atlas_gen) - Tool for generating MTSDF atlas of multiple fonts and SVG icons
-* [IMGUI](https://github.com/epsilonbsp/imgui) - My attempt at making immediate mode gui like Dear ImGui (abandoned)
-* [IMDD2](https://github.com/epsilonbsp/imdd2) - My attempt at making immediate mode debug draw for 2D (abandoned)
-* [IMDD3](https://github.com/epsilonbsp/imdd3) - My attempt at making immediate mode debug draw for 3D (abandoned)
 
-Web stuff:
+Web:
 * [Simple Blocker](https://github.com/epsilonbsp/simple_blocker) - Simple chrome based extension for blocking websites
+
+Utility:
+* [Timesync](https://github.com/epsilonbsp/timesync) - Windows service for time synchronization
+* [Blocker](https://github.com/epsilonbsp/blocker) - Windows service for blocking domains
 
 Bhop:
 * [Bhop Server Setup](https://github.com/epsilonbsp/bhop_server) - My bhop LAN server setup with collection of plugins
@@ -22,3 +23,8 @@ Bhop:
 * [SourceMod Paint Plugin](https://github.com/epsilonbsp/sm_paint) - Plugin for painting on walls
 * [SourceMod Extension Build Example With SDK](https://github.com/epsilonbsp/sm_extension_example_with_sdk) - Showcase of how to build SourceMod Sample Extension With SDK using AMBuild
 * [SourceMod Extension Build Example Without SDK](https://github.com/epsilonbsp/sm_extension_example_without_sdk) - Showcase of how to build SourceMod Sample Extension without SDK using AMBuild
+
+Abandoned:
+* [IMGUI](https://github.com/epsilonbsp/imgui) - My attempt at making immediate mode gui like Dear ImGui
+* [IMDD2](https://github.com/epsilonbsp/imdd2) - My attempt at making immediate mode debug draw for 2D
+* [IMDD3](https://github.com/epsilonbsp/imdd3) - My attempt at making immediate mode debug draw for 3D
